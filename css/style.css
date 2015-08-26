@@ -212,3 +212,7 @@ span {
     display: block;
   }
 }
+
+body {
+  padding-top: 70px;
+}
